@@ -30,4 +30,6 @@ public class MainActivity extends AppCompatActivity {
         TextView tv3 = (TextView) findViewById(R.id.textView3);
         tv3.setText(str);
     }
+
+    // 多加一個新功能
 }
